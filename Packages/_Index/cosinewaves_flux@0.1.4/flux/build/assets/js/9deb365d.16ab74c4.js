@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[53],{4410:s=>{s.exports=JSON.parse('{"sourceUrl":"https://github.com/cosinewaves/flux/blob/main","baseUrl":"/flux/","classOrder":[],"apiCategories":[]}')}}]);
